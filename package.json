@@ -1,0 +1,23 @@
+{
+  "name": "dope-test-jade",
+  "version": "1.0.0",
+  "description": "DOPE Personality Test Web App — Modern, interactive personality assessment",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'No build step required for vanilla JS'",
+    "test": "echo 'Add tests here'"
+  },
+  "keywords": [
+    "personality-test",
+    "dope",
+    "assessment",
+    "jade-academy"
+  ],
+  "author": "JADE Academy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaya7479/dope-test-jade-"
+  }
+}
